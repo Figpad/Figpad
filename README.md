@@ -1,7 +1,7 @@
 # Figpad/README.md
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Figpad/Figpad/main/github-banner.jpg" alt="FIGPAD.AI - NEXT-GEN SCIENTIFIC ILLUSTRATION ENGINE" width="100%">
+  <img src="https://raw.githubusercontent.com/Figpad/Figpad/main/github-banner.png" alt="FIGPAD.AI - NEXT-GEN SCIENTIFIC ILLUSTRATION ENGINE" width="100%">
 </p>
 
 <p align="center">
