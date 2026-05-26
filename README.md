@@ -18,31 +18,34 @@
   <a href="https://figpad.ai">
     <img src="https://img.shields.io/badge/Launch%20Figpad-figpad.ai-black?style=for-the-badge" alt="Launch Figpad">
   </a>
-  <a href="https://figpad.ai/image-to-svg">
-    <img src="https://img.shields.io/badge/Image%20to%20SVG-Try%20Now-blue?style=for-the-badge" alt="Image to SVG">
+  <a href="https://figpad.ai/zh/generate-figure">
+    <img src="https://img.shields.io/badge/AI%20Figure-Generate%20Now-purple?style=for-the-badge" alt="AI Figure Generator">
   </a>
-  <a href="https://figpad.ai/ai-scientific-illustration">
-    <img src="https://img.shields.io/badge/AI%20Illustration-Create%20Now-purple?style=for-the-badge" alt="AI Scientific Illustration">
+  <a href="https://figpad.ai/zh/svg-converter">
+    <img src="https://img.shields.io/badge/Image%20to%20SVG-Convert%20Now-blue?style=for-the-badge" alt="Image to SVG Converter">
+  </a>
+  <a href="https://figpad.ai/zh/svg-editor">
+    <img src="https://img.shields.io/badge/SVG%20Editor-Open%20Now-green?style=for-the-badge" alt="Online SVG Editor">
   </a>
 </p>
 
 <p align="center">
   <a href="https://figpad.ai">Website</a>
   ·
-  <a href="https://figpad.ai/image-to-svg">Image to SVG Converter</a>
+  <a href="https://figpad.ai/zh/generate-figure">AI Figure Generator</a>
   ·
-  <a href="https://figpad.ai/svg-editor">Online SVG Editor</a>
+  <a href="https://figpad.ai/zh/svg-converter">SVG Converter</a>
   ·
-  <a href="https://figpad.ai/ai-scientific-illustration">AI Scientific Illustration</a>
+  <a href="https://figpad.ai/zh/svg-editor">Online SVG Editor</a>
 </p>
 
 ---
 
 ## What is Figpad?
 
-**[Figpad](https://figpad.ai)** is a web-based vector editor built for researchers, scientists, students, and academic creators.
+**[Figpad](https://figpad.ai)** is a web-based scientific illustration platform built for researchers, scientists, students, and academic creators.
 
-It combines **[AI scientific illustration](https://figpad.ai/ai-scientific-illustration)**, **[bitmap-to-SVG conversion](https://figpad.ai/image-to-svg)**, and an **[online SVG editor](https://figpad.ai/svg-editor)**, helping researchers create clean, editable, publication-ready scientific figures without spending hours in traditional design tools.
+It combines **[AI figure generation](https://figpad.ai/zh/generate-figure)**, **[bitmap-to-SVG conversion](https://figpad.ai/zh/svg-converter)**, and an **[online SVG editor](https://figpad.ai/zh/svg-editor)**, helping researchers create clean, editable, publication-ready scientific figures without spending hours in traditional design tools.
 
 Whether you are preparing a paper, thesis, grant proposal, conference poster, graphical abstract, or lab presentation, **[Figpad](https://figpad.ai)** helps you move from rough idea to polished scientific visual faster.
 
@@ -52,9 +55,9 @@ Whether you are preparing a paper, thesis, grant proposal, conference poster, gr
 
 | Feature | What It Does | Try It |
 | :--- | :--- | :--- |
-| **AI Scientific Illustration** | Generate scientific diagrams from text prompts using advanced image models such as `GPT-Img-2` and `Nano Banana 2` | **[Create with AI](https://figpad.ai/ai-scientific-illustration)** |
-| **Bitmap to SVG Converter** | Convert screenshots, sketches, and low-resolution images into clean, scalable vector graphics | **[Convert Image to SVG](https://figpad.ai/image-to-svg)** |
-| **Online SVG Editor** | Edit vectors directly in the browser with node manipulation, layers, shapes, text, and styling tools | **[Open SVG Editor](https://figpad.ai/svg-editor)** |
+| **AI Figure Generator** | Generate scientific diagrams from text prompts using advanced image models such as `GPT-Img-2` and `Nano Banana 2` | **[Generate Figure](https://figpad.ai/zh/generate-figure)** |
+| **Bitmap to SVG Converter** | Convert screenshots, sketches, and low-resolution images into clean, scalable vector graphics | **[Convert to SVG](https://figpad.ai/zh/svg-converter)** |
+| **Online SVG Editor** | Edit vectors directly in the browser with node manipulation, layers, shapes, text, and styling tools | **[Open SVG Editor](https://figpad.ai/zh/svg-editor)** |
 | **Academic Figure Workflow** | Designed for cellular, molecular, materials science, chemical apparatus, neural network, and engineering diagrams | **[Visit Figpad](https://figpad.ai)** |
 | **Editable Export** | Export figures in formats suitable for journals, slides, posters, and manuscripts | **[Start Creating](https://figpad.ai)** |
 
@@ -82,9 +85,9 @@ Traditional illustration tools are powerful, but they are often too slow for sci
 
 **[Figpad](https://figpad.ai)** focuses on the needs of academic creators:
 
-- **Prompt to figure**: generate scientific illustrations from natural language with **[AI Scientific Illustration](https://figpad.ai/ai-scientific-illustration)**
-- **Image to vector**: turn bitmap screenshots and rough sketches into scalable SVG with the **[Image to SVG Converter](https://figpad.ai/image-to-svg)**
-- **Edit in browser**: adjust paths, layers, colors, labels, and layout in the **[Online SVG Editor](https://figpad.ai/svg-editor)**
+- **Prompt to figure**: generate scientific illustrations from natural language with the **[AI Figure Generator](https://figpad.ai/zh/generate-figure)**
+- **Image to vector**: turn bitmap screenshots and rough sketches into scalable SVG with the **[SVG Converter](https://figpad.ai/zh/svg-converter)**
+- **Edit in browser**: adjust paths, layers, colors, labels, and layout in the **[Online SVG Editor](https://figpad.ai/zh/svg-editor)**
 - **Export for publication**: prepare assets for papers, slides, posters, and journal submission
 - **Academic-first design**: optimized for research diagrams rather than generic marketing graphics
 
@@ -108,7 +111,7 @@ Includes prompts for:
 
 Repository: [awesome-scientific-prompts](https://github.com/Figpad/awesome-scientific-prompts)
 
-Start creating similar visuals in **[Figpad AI Scientific Illustration](https://figpad.ai/ai-scientific-illustration)**.
+Start creating similar visuals in the **[Figpad AI Figure Generator](https://figpad.ai/zh/generate-figure)**.
 
 ### image-to-svg-academic-workflow
 
@@ -116,7 +119,7 @@ Step-by-step guides for converting low-resolution screenshots, paper figures, sk
 
 Repository: [image-to-svg-academic-workflow](https://github.com/Figpad/image-to-svg-academic-workflow)
 
-Try the workflow directly with the **[Figpad Image to SVG Converter](https://figpad.ai/image-to-svg)**.
+Try the workflow directly with the **[Figpad SVG Converter](https://figpad.ai/zh/svg-converter)**.
 
 ---
 
@@ -137,9 +140,9 @@ Ready to export your next scientific figure? **[Open Figpad](https://figpad.ai)*
 ## Product Links
 
 - **Website**: [https://figpad.ai](https://figpad.ai)
-- **AI Scientific Illustration**: [https://figpad.ai/ai-scientific-illustration](https://figpad.ai/ai-scientific-illustration)
-- **Image to SVG Converter**: [https://figpad.ai/image-to-svg](https://figpad.ai/image-to-svg)
-- **Online SVG Editor**: [https://figpad.ai/svg-editor](https://figpad.ai/svg-editor)
+- **AI Figure Generator**: [https://figpad.ai/zh/generate-figure](https://figpad.ai/zh/generate-figure)
+- **SVG Converter**: [https://figpad.ai/zh/svg-converter](https://figpad.ai/zh/svg-converter)
+- **Online SVG Editor**: [https://figpad.ai/zh/svg-editor](https://figpad.ai/zh/svg-editor)
 
 ---
 
